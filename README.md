@@ -39,7 +39,7 @@ Before running the project locally, ensure that you have the following software 
 Clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/authentication-system.git
+git clone https:https://github.com/Chandra13July/PHPUnit.git
 ```
 Step 2: Install Dependencies
 Navigate to the project directory and install the required dependencies using Composer:
